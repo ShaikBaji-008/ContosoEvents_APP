@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Booking_API", "Contoso_Booking_API\Contoso_Booking_API.csproj", "{48141FBF-DF98-4BED-BF8C-306A82B9BE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Booking_Test", "Contoso_Booking_Test\Contoso_Booking_Test.csproj", "{20C4F82D-5316-4D2A-8810-3401C9CAB8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Booking_Model", "Contoso_Booking_Model\Contoso_Booking_Model.csproj", "{D60C327E-245C-40B6-A9EA-3F40F9559FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso_Booking_Services", "Contoso_Booking_Services\Contoso_Booking_Services.csproj", "{98B683B1-6235-464A-A365-89B9272ADDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48141FBF-DF98-4BED-BF8C-306A82B9BE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48141FBF-DF98-4BED-BF8C-306A82B9BE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48141FBF-DF98-4BED-BF8C-306A82B9BE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48141FBF-DF98-4BED-BF8C-306A82B9BE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C4F82D-5316-4D2A-8810-3401C9CAB8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C4F82D-5316-4D2A-8810-3401C9CAB8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C4F82D-5316-4D2A-8810-3401C9CAB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C4F82D-5316-4D2A-8810-3401C9CAB8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60C327E-245C-40B6-A9EA-3F40F9559FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60C327E-245C-40B6-A9EA-3F40F9559FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60C327E-245C-40B6-A9EA-3F40F9559FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60C327E-245C-40B6-A9EA-3F40F9559FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B683B1-6235-464A-A365-89B9272ADDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B683B1-6235-464A-A365-89B9272ADDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B683B1-6235-464A-A365-89B9272ADDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B683B1-6235-464A-A365-89B9272ADDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9902B808-4527-4F2E-9CCF-004D69E2055C}
+	EndGlobalSection
+EndGlobal

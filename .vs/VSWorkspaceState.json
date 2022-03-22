@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contoso_Booking_API",
+    "\\Contoso_Events_API",
+    "\\Contoso_Payment_API",
+    "\\Contoso_User_API",
+    "\\Contoso_User_API\\Contoso_User_API",
+    "\\Contoso_User_API\\Contoso_User_Test"
+  ],
+  "SelectedNode": "\\Contoso_User_API\\Contoso_User_API\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
